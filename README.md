@@ -59,12 +59,3 @@ This project could run into the following risk:
             <li> The world is a better place when you can intervene and provide adequate resources to people who are dealing with certain issues!
         </ul>
 </ol>
-    
-## Tentative Timeline 
-Here is a tentative timeline for the project (end of the week):
-<ol>
-    <li> Week 9: Data Ready + Processed, Certain Helper Functions Defined (Loss + Accuracy), Overall Map of the Different Functions and Machine Learning Models that I am to use
-    <li> Week 10: Implementing the different Machine Learning models + Understanding how they work with the Data at hand
-    <li> Week 11: Performing Experiments (Blog Post and Jupyter Notebook) + Testing and Plotting the Results from Different Machine Learning models + Detailed Analysis of what worked, what did not work, and why? 
-    <li> Week 12: Creating a Web-App using Django which would allow users to use this Project's final outcome  
-</ol>
