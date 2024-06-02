@@ -11,3 +11,6 @@ Using an SVM-based approach (for a bag-of-words model), this project aims to ana
 <ol>
     <li><a href="https://www.kaggle.com/datasets/kazanova/sentiment140?datasetId=2477">Kaggle Sentiment140 Dataset</a>
 </ol>
+
+## Blog Post
+A full write-up of this project can be found on my blog: <a href="https://dcruzeneil.github.io/projects/mental-health-analysis/">Analyzing Sentiments from Tweets for Mental Health Support</a>.
